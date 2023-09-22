@@ -40,7 +40,7 @@ This Express application provides a robust user authentication system, utilizing
 4. **Start the server**:
 
     ```bash
-    npm start
+    npm test
     ```
 
     By default, the server runs on `http://localhost:3000`.
